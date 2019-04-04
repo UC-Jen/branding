@@ -1,0 +1,159 @@
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansThin-webfont.woff2') format('woff2'), /* Modern Browsers */
+         url('fonts/GrotaSansThin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/GrotaSansThin-webfont.ttf')  format('truetype'); /* Mobile Browsers/Apps */
+	font-weight: 100;
+	font-style: normal;  
+}
+
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansThin-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansThin-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansThin-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansLight-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansLight-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansLight-webfont.ttf')  format('truetype'); 
+	font-weight: 200;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansLight-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansLight-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansLight-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 200;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansBook-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBook-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBook-webfont.ttf')  format('truetype'); 
+	font-weight: 300;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansBook-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBook-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBook-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 300;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSans-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSans-webfont.woff') format('woff'), 
+         url('fonts/GrotaSans-webfont.ttf')  format('truetype'); 
+	font-weight: 400;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSans-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSans-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSans-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 400;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansMedium-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansMedium-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansMedium-webfont.ttf')  format('truetype'); 
+	font-weight: 500;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansMedium-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansMedium-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansMedium-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 500;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansSemiBold-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansSemiBold-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansSemiBold-webfont.ttf')  format('truetype'); 
+	font-weight: 600;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansSemiBold-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansSemiBold-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansSemiBold-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 600;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansBold-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBold-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBold-webfont.ttf')  format('truetype'); 
+	font-weight: 700;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansBold-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBold-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBold-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 700;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansExtraBold-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansExtraBold-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansExtraBold-webfont.ttf')  format('truetype'); 
+	font-weight: 800;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansExtraBold-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansExtraBold-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansExtraBold-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 800;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansHeavy-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansHeavy-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansHeavy-webfont.ttf')  format('truetype'); 
+	font-weight: 900;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'Grota';
+	src: url('fonts/GrotaSansHeavy-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansHeavy-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansHeavy-Italic-webfont.ttf')  format('truetype'); 
+	font-weight: 900;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'GrotaBlack';
+	src: url('fonts/GrotaSansBlack-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBlack-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBlack-webfont.woff.ttf')  format('truetype'); 
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'GrotaBlack';
+	src: url('fonts/GrotaSansBlack-Italic-webfont.woff2') format('woff2'), 
+         url('fonts/GrotaSansBlack-Italic-webfont.woff') format('woff'), 
+         url('fonts/GrotaSansBlack-Italic-webfont.ttf')  format('truetype'); 
+	font-style: italic;  
+}
