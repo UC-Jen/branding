@@ -1,0 +1,113 @@
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-thin-webfont.woff2') format('woff2'), /* Modern Browsers */
+         url('fonts/coversans-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/coversans-thin-webfont.ttf')  format('truetype'); /* Mobile Browsers/Apps */
+	font-weight: 100;
+	font-style: normal;  
+}
+
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-thinitalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-thinitalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-thinitalic-webfont.ttf')  format('truetype'); 
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-light-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-light-webfont.woff') format('woff'), 
+         url('fonts/coversans-light-webfont.ttf')  format('truetype'); 
+	font-weight: 200;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-lightitalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-lightitalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-lightitalic-webfont.ttf')  format('truetype'); 
+	font-weight: 200;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-regular-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-regular-webfont.woff') format('woff'), 
+         url('fonts/coversans-regular-webfont.ttf')  format('truetype'); 
+	font-weight: 300;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-regularitalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-regularitalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-regularitalic-webfont.ttf')  format('truetype'); 
+	font-weight: 300;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-medium-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-medium-webfont.woff') format('woff'), 
+         url('fonts/coversans-medium-webfont.ttf')  format('truetype'); 
+	font-weight: 500;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-mediumitalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-mediumitalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-mediumitalic-webfont.ttf')  format('truetype'); 
+	font-weight: 500;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-semibold-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-semibold-webfont.woff') format('woff'), 
+         url('fonts/coversans-semibold-webfont.ttf')  format('truetype'); 
+	font-weight: 600;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-semibolditalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-semibolditalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-semibolditalic-webfont.ttf')  format('truetype'); 
+	font-weight: 600;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-bold-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-bold-webfont.woff') format('woff'), 
+         url('fonts/coversans-bold-webfont.ttf')  format('truetype'); 
+	font-weight: 700;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-bolditalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-bolditalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-bolditalic-webfont.ttf')  format('truetype'); 
+	font-weight: 700;
+	font-style: italic;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-heavy-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-heavy-webfont.woff') format('woff'), 
+         url('fonts/coversans-heavy-webfont.ttf')  format('truetype'); 
+	font-weight: 900;
+	font-style: normal;  
+}
+@font-face {
+	font-family: 'CoverSans';
+	src: url('fonts/coversans-heavyitalic-webfont.woff2') format('woff2'), 
+         url('fonts/coversans-heavyitalic-webfont.woff') format('woff'), 
+         url('fonts/coversans-heavyitalic-webfont.ttf')  format('truetype'); 
+	font-weight: 900;
+	font-style: italic;  
+}
